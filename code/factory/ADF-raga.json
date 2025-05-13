@@ -1,0 +1,9 @@
+{
+	"name": "ADF-raga",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa1fe355-8c50-4157-9cf7-d1e742d1b1a7",
+		"tenantId": "258cbad4-1b37-4068-beaf-3cb640f3f841"
+	}
+}
